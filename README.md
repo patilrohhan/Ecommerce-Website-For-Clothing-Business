@@ -22,15 +22,41 @@ This is a dynamic e-commerce website developed as part of my academic project. I
 | Editor      | Visual Studio Code                      |
 
 ## 📷 Screenshots
-#### Homepage
-![Homepage](homepage.png)
+### 🔹 Homepage
+![Homepage](Screen_shots/Homepage.png)
+![Homepage2](Screen_shots/Homepage2.png)
+![Homepage3](Screen_shots/Homepage3.png)
+![Homepage4](Screen_shots/Homepage4.png)
+![Homepage Banner](Screen_shots/Homepage_Banner.png)
+![Homepage Footer](Screen_shots/Homepage_Footer.png)
 
-#### Shop Page
-![Product Page](product.png)
+### 🔹 About Us
+![About Us 1](Screen_shots/About_us1.png)
+![About Us 2](Screen_shots/About_us2.png)
 
-#### Cart Page
-![Cart](cart.png)
+### 🔹 Contact Us
+![Contact Us 1](Screen_shots/Contact_us1.png)
+![Contact Us 2](Screen_shots/Contact_us2.png)
 
+### 🔹 Shop Pages
+![Shop Page 1](Screen_shots/Shop_page1.png)
+![Shop Page 2](Screen_shots/Shop_page2.png)
+
+### 🔹 Product Details
+![Product Details](Screen_shots/Product_Details.png)
+
+### 🔹 Cart & Checkout
+![Cart 1](Screen_shots/Cart1.png)
+![Cart 2](Screen_shots/Cart2.png)
+![Checkout](Screen_shots/Checkout.png)
+
+### 🔹 User Account
+![Sign In](Screen_shots/SignIn.png)
+![Sign Up](Screen_shots/SignUp.png)
+![User Account](Screen_shots/User_Account.png)
+
+### 🔹 Order Confirmation
+![Order Confirmation](Screen_shots/Order_Confirmation.png)
 
 ## 🧪 How to Run Locally
 
