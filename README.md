@@ -22,8 +22,14 @@ This is a dynamic e-commerce website developed as part of my academic project. I
 | Editor      | Visual Studio Code                      |
 
 ## 📷 Screenshots
+#### Homepage
+![Homepage](homepage.png)
 
-_Add screenshots of your homepage, cart page, admin panel, etc._
+#### Shop Page
+![Product Page](product.png)
+
+#### Cart Page
+![Cart](cart.png)
 
 
 ## 🧪 How to Run Locally
